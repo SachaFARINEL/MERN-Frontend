@@ -35,29 +35,6 @@
       <change afterPath="$PROJECT_DIR$/../MERN/server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MERN/views/404.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MERN/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mernfront.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DashHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DashLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Public.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/auth/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Exercice1/E1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Exercice1/E2.java" beforeDir="false" />
@@ -69,6 +46,15 @@
       <change beforePath="$PROJECT_DIR$/../../../Exercice3/DataAnalyzer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Exercice3/DataSetReader.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Exercice3/valeurs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DashHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DashHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/notes/NotesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/notes/NotesList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/users/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/users/UsersList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Question1/Pile.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Question1/PileTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Question2/Pile.java" beforeDir="false" />
@@ -117,12 +103,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -134,6 +121,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -165,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674060182513</updated>
-      <workItem from="1674060183631" duration="3660000" />
+      <workItem from="1674060183631" duration="8337000" />
     </task>
     <servers />
   </component>
